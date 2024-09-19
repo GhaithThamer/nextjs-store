@@ -12,7 +12,7 @@ function Hero() {
         <p className='mt-8 max-w-xl text-lg leading-8 text-muted-foreground'>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque et
           voluptas saepe in quae voluptate, laborum maiores possimus illum
-          reprehenderit aut delectus veniam cum perferendis unde sint doloremque
+          reprehenderit aut delectus veniam cum perferendis unde sint ghaith doloremque
           non nam.
         </p>
         <Button asChild size='lg' className='mt-10'>
